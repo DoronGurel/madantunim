@@ -144,6 +144,7 @@ section.recent-posts {
 
 .listfeaturedtag .card-block {
     padding-left: 0;
+    text-align: right;
 }
 
 .listfeaturedtag h2.card-title,
@@ -151,6 +152,7 @@ section.recent-posts {
     font-size: 1.3rem;
     font-weight: 700;
     line-height: 1.25;
+    text-align: right;
 }
 
 .listfeaturedtag h4.card-text,
@@ -159,6 +161,7 @@ section.recent-posts {
     font-size: 0.95rem;
     line-height: 1.6;
     font-weight: 400;
+    text-align: right;
 }
 
 .featured-box-img-cover {
