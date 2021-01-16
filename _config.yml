@@ -1,6 +1,6 @@
 # Site
-name: "Mediumish"
-title: "Mediumish"
+name: "מדעןתונים"
+title: "מדעןתונים"
 description: "המרכז העברי למדע נתונים"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
@@ -13,7 +13,7 @@ permalink: /:title/
 
 # Authors
 authors:
-  sal:
+  doron:
     name: דורון גוראל
     display_name: דורון גוראל
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
