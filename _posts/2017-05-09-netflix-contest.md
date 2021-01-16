@@ -2,7 +2,7 @@
 layout: post
 title:  "אתגר נטפליקס: לקנות אלגוריתם במיליון דולר ולזרוק אותו לפח"
 author: doron
-categories: [ למידה עמוקה, בית, הגירה, מגורים, מיקום, מפה, עיבוד תמונה ]
+categories: [ קאגל, נטפליקס, מנוע המלצות, מדע נתונים תחרותי ]
 image: https://madantunim.files.wordpress.com/2017/05/tina-rataj-berard-168378.jpg?w=960&h=1280&crop=1
 ---
 
