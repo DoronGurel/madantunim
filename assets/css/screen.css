@@ -10,7 +10,10 @@ License: https://www.wowthemes.net/freebies-license/
 .mainheading {
     padding: 1rem 0rem;
     text-align: right;
+}
 
+.lead {
+    text-align: right;
 }
 
 a {
