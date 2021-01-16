@@ -1,6 +1,6 @@
 ---
 layout: page
-title: מדעןתונים
+title: על אודות
 permalink: /about
 comments: true
 ---
