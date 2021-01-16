@@ -8,7 +8,7 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>מדעןתונים הוא הבלוג העברי למדע נתונים. אנחנו פועלים כדי לרכז ולהנגיש תוכן טכנולוגי איכותי לקהל הרחב בעברית פשוטה</p>
+<p>מדעןתונים הוא הבלוג העברי למדע נתונים. <br> אנחנו פועלים כדי לרכז ולהנגיש תוכן טכנולוגי איכותי לקהל הרחב בעברית פשוטה</p>
 
 <!-- <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p> -->
 
