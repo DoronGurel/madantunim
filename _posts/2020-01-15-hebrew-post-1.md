@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "כותרת בעברית"
-author: דורון גוראל
+author: doron
 categories: [ Jekyll ]
 image: assets/images/14.jpg
 ---
