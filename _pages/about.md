@@ -21,10 +21,13 @@ comments: true
 
 <div class="sticky-top sticky-top-80">
 <h5>קנו לי קפה</h5>
-![alt text](https://www.buymeacoffee.com/library/content/images/2020/09/logo_black--1-.png "buymeacoffee")
+<a target="_blank" href="https://www.buymeacoffee.com/madantunim">
+  <img src="https://www.buymeacoffee.com/library/content/images/2020/09/logo_black--1-.png" alt="buymeacoffee"> 
+  </a>
+  
 <p>תודה על תמיכתם בהנגשת תוכן טכנולוגי בעברית נגישה</p>
 
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">קנו לי קפה</a> 
+<a target="_blank" href="https://www.buymeacoffee.com/madantunim" class="btn btn-danger">קנו לי קפה</a> 
 
 </div>
 </div>
