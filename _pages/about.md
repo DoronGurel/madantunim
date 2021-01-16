@@ -10,7 +10,7 @@ comments: true
 
 <p>מדעןתונים הוא הבלוג העברי למדע נתונים. אנחנו פועלים כדי לרכז ולהנגיש תוכן טכנולוגי איכותי לקהל הרחב בעברית פשוטה</p>
 
-<-- <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p> -->
+<!-- <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p> -->
 
 
 
@@ -21,7 +21,7 @@ comments: true
 
 <div class="sticky-top sticky-top-80">
 <h5>קנו לי קפה</h5>
-
+![alt text](https://www.buymeacoffee.com/library/content/images/2020/09/logo_black--1-.png "buymeacoffee")
 <p>תודה על תמיכתם בהנגשת תוכן טכנולוגי בעברית נגישה</p>
 
 <a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">קנו לי קפה</a> 
