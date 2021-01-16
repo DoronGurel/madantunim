@@ -2,7 +2,7 @@
 layout: post
 title:  "כשפרוייקט צדדי הופך למקור הכנסה – על האיש שניתח את כל הספרים המומלצים ביותר ב- Stack Overflow"
 author: doron
-categories: [ למידה עמוקה, רשתות נוירונים, openAI, עיבוד תמונה, רובוטיקה ]
+categories: [ החזיית נתונים, הכנסה צדדית, פרוייקט, ספרים]
 image: https://madantunim.files.wordpress.com/2017/04/rita-morais-108397.jpg?w=960&h=1280&crop=1
 ---
 
