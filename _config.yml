@@ -3,7 +3,7 @@ name: "מדעןתונים"
 title: "מדעןתונים"
 description: "המרכז העברי למדע נתונים"
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
 baseurl: /mediumish-theme-jekyll
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
@@ -21,6 +21,7 @@ authors:
     web: https://www.wowthemes.net
     twitter: https://twitter.com/wowthemesnet
     description: "מילים מילים מילים מילים"
+    
   john:
     name: John
     display_name: John    
