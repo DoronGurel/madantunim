@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "כותרת בעברית"
+title:  "הפמיניזם הולך לקולנוע"
 author: doron
 categories: [ טקסט, מגדר, נשים, החזיית נתונים, סרטים, פמיניזם, קולנוע, שוויון מגדרי ]
 image: https://madantunim.files.wordpress.com/2017/01/askeuozqhyu-jason-rosewell.jpg?w=960&h=1280&crop=1
