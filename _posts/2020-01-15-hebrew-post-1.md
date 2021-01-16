@@ -31,6 +31,6 @@ image: assets/images/14.jpg
 
 חוקרים צעירים בפקולטות למדעי החברה יכולים כיום להשיג ולנתח כמויות אדירות של נתונים שעד לפני כמה שנים היה ניתן רק לחלום עליהם. בשנים הקרובות נוכל לצפות לגל של מחקרים אמפיריים בתחומים כמו סוציולוגיה ומגדר, אשר עד כה נשענו על מחקר איכותני שנוטה להיות מוטה לכיוון דעותיו האישיות של החוקר..
 
-למאמר המקורי באנגלית [לחצו כאן[(https://www.freecodecamp.org/news/women-only-said-27-of-the-words-in-2016s-biggest-movies-955cb480c3c4/#.6l6ep8luo).
+למאמר המקורי באנגלית [לחצו כאן](https://www.freecodecamp.org/news/women-only-said-27-of-the-words-in-2016s-biggest-movies-955cb480c3c4/#.6l6ep8luo).
 
 לאתר הפרוייקט [לחצו כאן](https://amber.rbind.io/projects/MovieDialogueInteractive/).
