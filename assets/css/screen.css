@@ -204,6 +204,7 @@ section.recent-posts {
 .post-top-meta .author-thumb {
     width: 72px;
     height: 72px;
+    text-align: right;
 }
 
 .post-top-meta.authorpage .author-thumb {
@@ -220,6 +221,7 @@ section.recent-posts {
     margin-bottom: 5px;
     margin-top: 5px;
     font-size: 0.95rem;
+    text-align: right;
 }
 
 .toc ul {
