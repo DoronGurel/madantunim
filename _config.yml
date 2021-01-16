@@ -5,7 +5,7 @@ description: "המרכז העברי למדע נתונים"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: /madantunim
-google_analytics: 'UA-46278016-1'
+google_analytics: 'G-7CVTW7YKGT'
 disqus: 'demowebsite'
 mailchimp-list: 'https://mailchi.mp/4c03b09a0ffd/madantunim'
 include: ["_pages"]
