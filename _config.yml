@@ -2,7 +2,7 @@
 name: "מדעןתונים"
 title: "מדעןתונים"
 description: "הבית הישראלי למדע נתונים"
-extended_description: "מרכזים תוכן איכותי על עולם הטכנולוגיה וניתוח הנתונים, בעברית, לקהל הרחב"
+extended_description: " תוכן איכותי על עולם הטכנולוגיה וניתוח הנתונים, בעברית, לקהל הרחב"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: /madantunim
