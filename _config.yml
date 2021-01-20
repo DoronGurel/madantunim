@@ -1,7 +1,8 @@
 # Site
 name: "מדעןתונים"
 title: "מדעןתונים"
-description: "המרכז העברי למדע נתונים"
+description: "הבית הישראלי למדע נתונים"
+extended_description: "מרכזים תוכן איכותי על עולם הטכנולוגיה וניתוח הנתונים, בעברית, לקהל הרחב"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: /madantunim
