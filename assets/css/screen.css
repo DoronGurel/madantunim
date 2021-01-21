@@ -79,7 +79,7 @@ section.recent-posts {
     font-size: 1.4rem;
     margin-bottom: 27px;
     text-align: right;
-
+    font-family: 'M PLUS Rounded 1c', sans-serif;
 }
 
 .section-title span {
@@ -160,6 +160,7 @@ section.recent-posts {
     font-weight: 700;
     line-height: 1.25;
     text-align: right;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
 }
 
 .listfeaturedtag h4.card-text,
@@ -169,6 +170,7 @@ section.recent-posts {
     line-height: 1.6;
     font-weight: 400;
     text-align: right;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
 }
 
 .featured-box-img-cover {
@@ -190,6 +192,7 @@ section.recent-posts {
     display: flex;
     align-items: center;
     margin-bottom: 15px;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
 }
 
 .author-thumb {
@@ -217,6 +220,7 @@ section.recent-posts {
     font-size: 0.9rem;
     color: rgba(0, 0, 0, .44);
     display: inline-block;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
 }
 
 .post-top-meta .author-description {
@@ -224,11 +228,13 @@ section.recent-posts {
     margin-top: 5px;
     font-size: 0.95rem;
     text-align: right;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
 }
 
 .toc ul {
     list-style: decimal;
     font-weight: 400;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
 }
 
 .author-meta {
@@ -237,7 +243,7 @@ section.recent-posts {
     text-overflow: ellipsis !important;
     overflow: hidden !important;
     text-align: right;
-
+    font-family: 'M PLUS Rounded 1c', sans-serif;
 }
 
 span.post-name,
@@ -279,6 +285,7 @@ span.post-read-more a:hover {
     overflow: hidden;
     border: 1px solid rgba(0, 0, 0, 0.09);
     min-width: 180px;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
 }
 
 .mediumnavigation .form-inline {
@@ -300,6 +307,7 @@ span.post-read-more a:hover {
 
 .mediumnavigation .navbar-brand {
     font-weight: 500;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
 }
 
 .mediumnavigation .dropdown-menu {
@@ -310,6 +318,7 @@ span.post-read-more a:hover {
 .mediumnavigation .nav-item,
 .dropdown-menu {
     font-size: 0.9rem;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
 }
 
 .mediumnavigation .search-icon {
@@ -325,7 +334,7 @@ span.post-read-more a:hover {
 }
 
 .mainheading h1.sitetitle {
-    font-family: Alef, Righteous;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
     text-align: right;
 }
 
@@ -333,7 +342,7 @@ span.post-read-more a:hover {
     font-weight: 700;
     margin-bottom: 1rem;
     text-align: right;
-
+    font-family: 'M PLUS Rounded 1c', sans-serif;
 }
 
 .footer {
@@ -346,6 +355,7 @@ span.post-read-more a:hover {
     margin-bottom: 62px;
     position: relative;
     background: #fff;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
 }
 
 .link-dark {
@@ -353,7 +363,7 @@ span.post-read-more a:hover {
 }
 
 .article-post {
-    font-family: Alef, Merriweather;
+    font-family: Alef, Merriweather, 'M PLUS Rounded 1c', sans-serif;
     font-size: 1.1rem;
     line-height: 1.84;
     color: rgba(0, 0, 0, .8);
@@ -366,6 +376,7 @@ blockquote {
     padding: 0 20px;
     font-style: italic;
     color: rgba(0, 0, 0, .5);
+    font-family: 'M PLUS Rounded 1c', sans-serif;
 }
 
 .article-post p,
@@ -387,6 +398,7 @@ blockquote {
 .share p {
     margin-bottom: 10px;
     font-size: 0.95rem;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
 }
 
 .share ul li {
@@ -525,6 +537,7 @@ ul.tags {
 ul.tags li {
     display: inline-block;
     font-size: 0.9rem;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
 }
 
 ul.tags li a {
@@ -559,6 +572,7 @@ ul.tags li a:hover {
     border-radius: 999em;
     font-size: 0.85rem;
     display: inline-block;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
 }
 
 .btn.subscribe {
@@ -571,6 +585,7 @@ ul.tags li a:hover {
     margin-left: 10px;
     font-weight: 600;
     text-transform: uppercase;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
 }
 
 .post-top-meta .btn.follow {
@@ -605,6 +620,7 @@ ul.tags li a:hover {
     height: 34px;
     letter-spacing: 0.5px;
     margin-left: 5px;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
 }
 
 .alertbar input[type="submit"] {
@@ -621,6 +637,7 @@ ul.tags li a:hover {
     height: 34px;
     letter-spacing: 0.5px;
     cursor: pointer;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
 }
 
 .form-control::-webkit-input-placeholder {
@@ -646,6 +663,7 @@ ul.tags li a:hover {
 .authorpage h1 {
     font-weight: 700;
     font-size: 30px;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
 }
 
 .post-top-meta.authorpage .author-thumb {
@@ -655,6 +673,7 @@ ul.tags li a:hover {
 .authorpage .author-description {
     font-size: 1rem;
     color: rgba(0, 0, 0, .6);
+    font-family: 'M PLUS Rounded 1c', sans-serif;
 }
 
 .post-top-meta.authorpage .btn.follow {
@@ -662,6 +681,7 @@ ul.tags li a:hover {
     margin-top: 10px;
     margin-left: 0;
     font-size: 0.9rem;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
 }
 
 .graybg.authorpage {
@@ -693,6 +713,7 @@ ul.tags li a:hover {
     line-height: 22px;
     border-radius: 50%;
     font-size: 12px;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
 }
 
 #comments {
@@ -712,7 +733,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: Alef, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-family: Alef, 'M PLUS Rounded 1c' ,-apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; 
 }
 
 .article-post .h1,
@@ -738,7 +759,7 @@ h6 {
 }
 
 .layout-page .article-post {
-    font-family: Alef, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-family: Alef, 'M PLUS Rounded 1c', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
     font-size: 1rem;
 }
 
@@ -901,7 +922,7 @@ iframe {
     line-height: 1;
     padding: 2px 3px;
     width: 150px;
-    font-family: Alef, Arial;
+    font-family: Alef, 'M PLUS Rounded 1c' , Arial;
     text-align: center;
     border-radius: 3px;
     transition: all .4s;
