@@ -4,7 +4,7 @@ title: "מדעןתונים"
 description: "הבית הישראלי למדע נתונים"
 extended_description: " תוכן איכותי על עולם הטכנולוגיה וניתוח הנתונים, בעברית, לקהל הרחב"
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
+favicon: 'assets/images/favicon.png'
 baseurl: 
 google_analytics: 'G-7CVTW7YKGT'
 disqus: 'demowebsite'
