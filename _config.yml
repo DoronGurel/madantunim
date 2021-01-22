@@ -6,7 +6,7 @@ extended_description: " תוכן איכותי על עולם הטכנולוגיה
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.png'
 baseurl: 
-google_analytics: 'G-7CVTW7YKGT'
+google_analytics: 'G-7MKJW0N3C0' #'G-7CVTW7YKGT'
 disqus: 'demowebsite'
 mailchimp-list: 'https://mailchi.mp/4c03b09a0ffd/madantunim'
 include: ["_pages"]
