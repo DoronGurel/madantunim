@@ -82,3 +82,4 @@ defaults:
       image: /assets/images/favicon.png
 locale: he_IL
 image: {{ page.image }}
+type: website
