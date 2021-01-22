@@ -14,8 +14,10 @@
     content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
 <meta property="og:locale" content="he_IL" />
 <meta property="og:site_name" content="{{ site.title }}" />
-<meta property="og:image" content="{{site.favicon}}" />
-
+	
+<meta property="og:image" content="{{ site.favicon | prepend: site.baseurl | prepend: site.url }}" />
+<meta property="og:image:type" content="image/jpeg" />
+	
 <!-- end open graph social media tags -->
 <title>{{ page.title }} | {{site.name}}</title>
 
