@@ -25,7 +25,7 @@ comments: false
   <img src="https://www.buymeacoffee.com/library/content/images/2020/09/logo_black--1-.png" alt="buymeacoffee"> 
   </a>
   
-<p>תודה על תמיכתם בהנגשת תוכן טכנולוגי בעברית נגישה</p>
+<p>תומכים בהנגשת תוכן טכנולוגי בעברית פשוטה?</p>
 
 <a target="_blank" href="https://www.buymeacoffee.com/madantunim" class="btn btn-danger">קנו לי קפה</a> 
 
