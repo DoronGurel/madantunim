@@ -4,6 +4,15 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: document
+  path: congig.yml
+  label: config
+  match: "**/*"
+- type: directory
+  path: assets/images
+  label: images
+  create: all
+  match: "**/*"
 - type: jekyll-posts
   label: Posts
   create: documents
