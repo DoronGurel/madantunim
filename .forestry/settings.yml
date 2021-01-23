@@ -5,7 +5,7 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
-  path: congig.yml
+  path: config.yml
   label: config
 - type: directory
   path: assets/images
